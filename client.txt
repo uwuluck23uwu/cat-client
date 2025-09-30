@@ -1,0 +1,43 @@
+Folder PATH listing for volume New Volume
+Volume serial number is C264-E492
+D:.
+|   .gitignore
+|   client.txt
+|   eslint.config.js
+|   index.html
+|   package.json
+|   postcss.config.js
+|   README.md
+|   tailwind.config.js
+|   tsconfig.app.json
+|   tsconfig.json
+|   tsconfig.node.json
+|   vite.config.ts
+|   yarn.lock
+|
++---public
+|       vite.svg
+|       
+\---src
+    |   App.css
+    |   App.tsx
+    |   index.css
+    |   main.tsx
+    |   vite-env.d.ts
+    |   
+    +---assets
+    |       react.svg
+    |       
+    +---components
+    |       Header.tsx
+    |       Sidebar.tsx
+    |       
+    +---pages
+    |       Control.tsx
+    |       Dashboard.tsx
+    |       Monitor.tsx
+    |       Settings.tsx
+    |       
+    \---types
+            index.ts
+            
